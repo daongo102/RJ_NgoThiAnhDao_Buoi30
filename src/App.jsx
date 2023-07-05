@@ -1,10 +1,9 @@
-import RccComponent from "./module/tao-component/rcc-component";
+import HomeLayout from "./module/BTLayout/layout";
 
 function App() {
    return (
       <>
-         <h1>Hello World</h1>
-         <RccComponent/>
+        <HomeLayout/>        
       </>
    );
 }
