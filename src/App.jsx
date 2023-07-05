@@ -3,7 +3,8 @@ import HomeLayout from "./module/BTLayout/layout";
 function App() {
    return (
       <>
-        <HomeLayout/>        
+        <HomeLayout/>  
+              
       </>
    );
 }
